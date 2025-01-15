@@ -14,7 +14,7 @@ body {
 }
 
 .Testimonials h2 {
-    font-size: 2.5em;
+    font-size: 40px;
     margin-bottom: 20px;
     color: rgba(14, 14, 14, 0.951);
 }
@@ -49,13 +49,13 @@ body {
 }
 
 .profile h3 {
-    font-size: 1.2em;
+    font-size: 19px;
     color: black;
     margin-bottom: 10px;
 }
 
 .profile p {
-    font-size: 0.9em;
+    font-size: 14.4px; 
     color: #777;
     line-height: 1.5;
 }
